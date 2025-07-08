@@ -99,4 +99,7 @@ The dataset used is an e-commerce orders table with the following schema:
 | `created_at`   | Timestamp of order creation            |
 | `paid_at`      | Timestamp of payment completion        |
 
+---
+## Link to the code
+[Open in Google Colab](https://colab.research.google.com/drive/12uxBBp5aKrYP4ZAiYInvfKuu2lFTSHJA?usp=sharing)
 
